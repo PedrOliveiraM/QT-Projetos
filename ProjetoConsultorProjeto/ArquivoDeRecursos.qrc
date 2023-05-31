@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/alterar.png</file>
+        <file>imagens/incluir.jpg</file>
+        <file>imagens/lixeira.png</file>
+        <file>imagens/ordenar.png</file>
+        <file>imagens/projeto.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>imagens/INFO.png</file>
+    </qresource>
+</RCC>
